@@ -1,0 +1,12 @@
+.indexBody {
+    height: 100vh;
+    background-image: url("./indexBg.jpg");
+}
+
+h1, p, a {
+    color: white;
+}
+
+button {
+    background-color: red;
+}
