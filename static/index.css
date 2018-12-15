@@ -1,12 +1,19 @@
 .indexBody {
+    font-size: 1.6rem;
     height: 100vh;
     background-image: url("./indexBg.jpg");
 }
 
+h1 {
+    font-size: 4rem !important;
+}
+
 h1, p, a {
     color: white;
+    text-align: center;
 }
 
 button {
     background-color: red;
+    width: 100%;
 }
