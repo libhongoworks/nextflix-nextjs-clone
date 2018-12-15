@@ -1,0 +1,23 @@
+.loginBody {
+    height: 100vh;
+    background-image: url("./indexBg.jpg");
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    padding-left: 15vw;
+    padding-right: 15vw;
+}
+
+article.signInForm.container {
+    background-color: black;
+    min-height: 80vh;
+    padding: 20px;
+}
+
+h3 {
+    color: white;
+}
+
+input.form-control {
+    background-color: grey;
+    color: white;
+}
